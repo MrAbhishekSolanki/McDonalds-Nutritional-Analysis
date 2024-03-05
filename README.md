@@ -47,8 +47,6 @@ Dataset Link - https://www.kaggle.com/datasets/mcdonalds/nutrition-facts
 
 ## Contact
 
-For questions or feedback, feel free to contact me
-
-- [GitHub: MrAbhishekSolanki](https://github.com/MrAbhishekSolanki)
+For questions or feedback, feel free to contact me on [LinkedIn](www.linkedin.com/in/abhisolanki12)
 
 Happy analyzing!
