@@ -35,9 +35,6 @@ If you wish to reproduce or explore the analysis, follow these steps:
 3. Ensure you have the necessary dependencies installed (e.g., pandas, matplotlib, seaborn).
 4. Run the cells in the notebook to execute the analysis.
 
-## Key Findings
-Upon doing this analysis I come to find out that,
-- 
 ## Dependencies/Libraries used
 - Pandas, Matplotlib, Seaborn
 
